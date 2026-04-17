@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dangv\\Desktop\\PPC Exam\\PPC_Exam\\PPC_Exam\\PPC_Exam.csproj",
-      "projectName": "PPC_Exam",
-      "projectPath": "C:\\Users\\dangv\\Desktop\\PPC Exam\\PPC_Exam\\PPC_Exam\\PPC_Exam.csproj",
+      "projectUniqueName": "C:\\Users\\dangv\\Desktop\\PPC Exam\\PPC_Exam\\GeometryExample\\GeometryExample.csproj",
+      "projectName": "GeometryExample",
+      "projectPath": "C:\\Users\\dangv\\Desktop\\PPC Exam\\PPC_Exam\\GeometryExample\\GeometryExample.csproj",
       "packagesPath": "C:\\Users\\dangv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dangv\\Desktop\\PPC Exam\\PPC_Exam\\PPC_Exam\\obj\\",
+      "outputPath": "C:\\Users\\dangv\\Desktop\\PPC Exam\\PPC_Exam\\GeometryExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dangv\\AppData\\Roaming\\NuGet\\NuGet.Config"
